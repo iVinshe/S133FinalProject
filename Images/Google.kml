@@ -1,0 +1,1570 @@
+<?xml version="1.0"?>
+<kml>
+  <Document>
+    <name>School</name>
+    <description>Beat Spread</description>
+    <LookAt>
+      <longitude>-121</longitude>
+      <latitude>43</latitude>
+      <altitude>4100000</altitude>
+      <tilt>0</tilt>
+      <heading>0</heading>
+      <altitudeMode>absolute</altitudeMode>
+    </LookAt>
+    <Folder>
+      <name>School Facts</name>
+      <Placemark id="2">
+        <Name>Akron University</Name>
+        <description>Akron University
+ Beat Spread: 0.476190476190476</description>
+        <Point>
+          <coordinates>-81.5113888888889,41.0761111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="5">
+        <Name>Alabama University</Name>
+        <description>Alabama University
+ Beat Spread: 0.486486486486487</description>
+        <Point>
+          <coordinates>-86.7997222222222,33.5047222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="8">
+        <Name>American University</Name>
+        <description>American University
+ Beat Spread: 0</description>
+        <Point>
+          <coordinates>-66.4777777777778,18.4336111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="11">
+        <Name>Arizona University</Name>
+        <description>Arizona University
+ Beat Spread: 0.484848484848485</description>
+        <Point>
+          <coordinates>-111.658055555556,35.19,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="14">
+        <Name>Arkansas-Little Rock University</Name>
+        <description>Arkansas-Little Rock University
+ Beat Spread: 0.3125</description>
+        <Point>
+          <coordinates>-92.3411111111111,34.7216666666667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="15">
+        <Name>Arkansas-Pine Bluff University</Name>
+        <description>Arkansas-Pine Bluff University
+ Beat Spread: 0</description>
+        <Point>
+          <coordinates>-92.0194444444444,34.2422222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="13">
+        <Name>Arkansas University</Name>
+        <description>Arkansas University
+ Beat Spread: 0.631578947368421</description>
+        <Point>
+          <coordinates>-93.1333333333333,35.295,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="17">
+        <Name>Auburn University</Name>
+        <description>Auburn University
+ Beat Spread: 0.684210526315789</description>
+        <Point>
+          <coordinates>-85.4847222222222,32.6019444444444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="18">
+        <Name>Austin Peay University</Name>
+        <description>Austin Peay University
+ Beat Spread: 0.388888888888889</description>
+        <Point>
+          <coordinates>-87.3538888888889,36.5333333333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="20">
+        <Name>Baylor University</Name>
+        <description>Baylor University
+ Beat Spread: 0.565217391304348</description>
+        <Point>
+          <coordinates>-97.1194444444444,31.5447222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="21">
+        <Name>Belmont University</Name>
+        <description>Belmont University
+ Beat Spread: 0</description>
+        <Point>
+          <coordinates>-86.7947222222222,36.1355555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="25">
+        <Name>Boston College</Name>
+        <description>Boston College
+ Beat Spread: 0.5625</description>
+        <Point>
+          <coordinates>-71.1711111111111,42.3355555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="26">
+        <Name>Boston University</Name>
+        <description>Boston University
+ Beat Spread: 0.5</description>
+        <Point>
+          <coordinates>-71.1047222222222,42.3338888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="27">
+        <Name>Bowling Green University</Name>
+        <description>Bowling Green University
+ Beat Spread: 0.421052631578947</description>
+        <Point>
+          <coordinates>-83.6394444444445,41.3758333333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="28">
+        <Name>Bradley University</Name>
+        <description>Bradley University
+ Beat Spread: 0.45</description>
+        <Point>
+          <coordinates>-89.6169444444444,40.6980555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="29">
+        <Name>Brigham Young University</Name>
+        <description>Brigham Young University
+ Beat Spread: 0.523809523809524</description>
+        <Point>
+          <coordinates>-111.650833333333,40.2455555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="30">
+        <Name>Brown University</Name>
+        <description>Brown University
+ Beat Spread: 0.428571428571429</description>
+        <Point>
+          <coordinates>-71.3975,41.8261111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="32">
+        <Name>Bucknell University</Name>
+        <description>Bucknell University
+ Beat Spread: 0</description>
+        <Point>
+          <coordinates>-76.8838888888889,40.9552777777778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="33">
+        <Name>Buffalo University</Name>
+        <description>Buffalo University
+ Beat Spread: 0.473684210526316</description>
+        <Point>
+          <coordinates>-78.8208333333333,42.9530555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="34">
+        <Name>Butler University</Name>
+        <description>Butler University
+ Beat Spread: 0.454545454545455</description>
+        <Point>
+          <coordinates>-80.0511111111111,41.0613888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="39">
+        <Name>Campbell University</Name>
+        <description>Campbell University
+ Beat Spread: 0</description>
+        <Point>
+          <coordinates>-84.4644444444445,39.0311111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="43">
+        <Name>Central Florida University</Name>
+        <description>Central Florida University
+ Beat Spread: 0.473684210526316</description>
+        <Point>
+          <coordinates>-81.2002777777778,28.6016666666667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="44">
+        <Name>Central Michigan University</Name>
+        <description>Central Michigan University
+ Beat Spread: 0.5</description>
+        <Point>
+          <coordinates>-84.775,43.5913888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="46">
+        <Name>Chattanooga University</Name>
+        <description>Chattanooga University
+ Beat Spread: 0.55</description>
+        <Point>
+          <coordinates>-85.3,35.0461111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="48">
+        <Name>Cincinnati University</Name>
+        <description>Cincinnati University
+ Beat Spread: 0.3</description>
+        <Point>
+          <coordinates>-84.5530555555556,39.1133333333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="50">
+        <Name>Clemson University</Name>
+        <description>Clemson University
+ Beat Spread: 0.444444444444444</description>
+        <Point>
+          <coordinates>-82.8386111111111,34.6769444444444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="52">
+        <Name>Coastal Carolina University</Name>
+        <description>Coastal Carolina University
+ Beat Spread: 0</description>
+        <Point>
+          <coordinates>-79.0077777777778,33.7952777777778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="53">
+        <Name>Colgate University</Name>
+        <description>Colgate University
+ Beat Spread: 0</description>
+        <Point>
+          <coordinates>-75.5355555555555,42.8172222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="54">
+        <Name>College of Charleston University</Name>
+        <description>College of Charleston University
+ Beat Spread: 0.7</description>
+        <Point>
+          <coordinates>-79.9486111111111,32.7844444444444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="55">
+        <Name>College of William and Mary</Name>
+        <description>College of William and Mary
+ Beat Spread: 0.272727272727273</description>
+        <Point>
+          <coordinates>-76.705,37.2647222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="58">
+        <Name>Colorado University</Name>
+        <description>Colorado University
+ Beat Spread: 0.411764705882353</description>
+        <Point>
+          <coordinates>-105.083611111111,40.5747222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="59">
+        <Name>Columbia University</Name>
+        <description>Columbia University
+ Beat Spread: 0.357142857142857</description>
+        <Point>
+          <coordinates>-73.9611111111111,40.8088888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="60">
+        <Name>Connecticut University</Name>
+        <description>Connecticut University
+ Beat Spread: 0.4</description>
+        <Point>
+          <coordinates>-72.6555555555556,41.5555555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="62">
+        <Name>Cornell University</Name>
+        <description>Cornell University
+ Beat Spread: 0.588235294117647</description>
+        <Point>
+          <coordinates>-76.4827777777778,42.4469444444444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="63">
+        <Name>Creighton University</Name>
+        <description>Creighton University
+ Beat Spread: 0.368421052631579</description>
+        <Point>
+          <coordinates>-95.9475,41.2652777777778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="64">
+        <Name>Dartmouth University</Name>
+        <description>Dartmouth University
+ Beat Spread: 0.285714285714286</description>
+        <Point>
+          <coordinates>-71.0058333333333,41.6286111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="65">
+        <Name>Davidson University</Name>
+        <description>Davidson University
+ Beat Spread: 0.368421052631579</description>
+        <Point>
+          <coordinates>-86.8030555555556,36.1480555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="66">
+        <Name>Dayton University</Name>
+        <description>Dayton University
+ Beat Spread: 0.473684210526316</description>
+        <Point>
+          <coordinates>-84.1780555555556,39.7397222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="69">
+        <Name>Delaware University</Name>
+        <description>Delaware University
+ Beat Spread: 0.6</description>
+        <Point>
+          <coordinates>-75.3444444444444,40.0380555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="70">
+        <Name>Denver University</Name>
+        <description>Denver University
+ Beat Spread: 0.277777777777778</description>
+        <Point>
+          <coordinates>-105.0325,39.7897222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="67">
+        <Name>DePaul University</Name>
+        <description>DePaul University
+ Beat Spread: 0.444444444444444</description>
+        <Point>
+          <coordinates>-87.8305555555555,42.2338888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="71">
+        <Name>Detroit University</Name>
+        <description>Detroit University
+ Beat Spread: 0.473684210526316</description>
+        <Point>
+          <coordinates>-82.9011111111111,42.4238888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="72">
+        <Name>Drake University</Name>
+        <description>Drake University
+ Beat Spread: 0.631578947368421</description>
+        <Point>
+          <coordinates>-93.6516666666667,41.6011111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="73">
+        <Name>Drexel University</Name>
+        <description>Drexel University
+ Beat Spread: 0.45</description>
+        <Point>
+          <coordinates>-75.1927777777778,39.9538888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="74">
+        <Name>Duke University</Name>
+        <description>Duke University
+ Beat Spread: 0.555555555555556</description>
+        <Point>
+          <coordinates>-78.94,36.0013888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="75">
+        <Name>Duquesne University</Name>
+        <description>Duquesne University
+ Beat Spread: 0.352941176470588</description>
+        <Point>
+          <coordinates>-79.9927777777778,40.4361111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="76">
+        <Name>East Carolina University</Name>
+        <description>East Carolina University
+ Beat Spread: 0.294117647058824</description>
+        <Point>
+          <coordinates>-77.3641666666667,35.6002777777778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="78">
+        <Name>Eastern Illinois University</Name>
+        <description>Eastern Illinois University
+ Beat Spread: 0.684210526315789</description>
+        <Point>
+          <coordinates>-88.1755555555556,39.4805555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="79">
+        <Name>Eastern Kentucky University</Name>
+        <description>Eastern Kentucky University
+ Beat Spread: 0.333333333333333</description>
+        <Point>
+          <coordinates>-84.3013888888889,37.7380555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="80">
+        <Name>Eastern Michigan University</Name>
+        <description>Eastern Michigan University
+ Beat Spread: 0.368421052631579</description>
+        <Point>
+          <coordinates>-83.6225,42.2469444444444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="81">
+        <Name>Eastern Washington University</Name>
+        <description>Eastern Washington University
+ Beat Spread: 0.642857142857143</description>
+        <Point>
+          <coordinates>-117.582777777778,47.4897222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="83">
+        <Name>Evansville University</Name>
+        <description>Evansville University
+ Beat Spread: 0.421052631578947</description>
+        <Point>
+          <coordinates>-87.5316666666667,37.9716666666667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="84">
+        <Name>Fairfield University</Name>
+        <description>Fairfield University
+ Beat Spread: 0.6</description>
+        <Point>
+          <coordinates>-73.2575,41.1605555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="87">
+        <Name>Florida Atlantic University</Name>
+        <description>Florida Atlantic University
+ Beat Spread: 0.529411764705882</description>
+        <Point>
+          <coordinates>-80.1666666666667,25.8972222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="89">
+        <Name>Florida International University</Name>
+        <description>Florida International University
+ Beat Spread: 0.533333333333333</description>
+        <Point>
+          <coordinates>-80.3819444444444,25.7541666666667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="91">
+        <Name>Florida University</Name>
+        <description>Florida University
+ Beat Spread: 0.506329113924051</description>
+        <Point>
+          <coordinates>-82.3491666666667,29.6483333333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="92">
+        <Name>Fordham University</Name>
+        <description>Fordham University
+ Beat Spread: 0.5</description>
+        <Point>
+          <coordinates>-73.8858333333333,40.8611111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="94">
+        <Name>Furman University</Name>
+        <description>Furman University
+ Beat Spread: 0.421052631578947</description>
+        <Point>
+          <coordinates>-82.4016666666667,34.8416666666667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="96">
+        <Name>George Mason University</Name>
+        <description>George Mason University
+ Beat Spread: 0.333333333333333</description>
+        <Point>
+          <coordinates>-77.3058333333333,38.8436111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="97">
+        <Name>George Washington University</Name>
+        <description>George Washington University
+ Beat Spread: 0.529411764705882</description>
+        <Point>
+          <coordinates>-77.0497222222222,38.8997222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="98">
+        <Name>Georgetown University</Name>
+        <description>Georgetown University
+ Beat Spread: 0.590909090909091</description>
+        <Point>
+          <coordinates>-77.0725,38.9072222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="99">
+        <Name>Georgia Southern University</Name>
+        <description>Georgia Southern University
+ Beat Spread: 0.467741935483871</description>
+        <Point>
+          <coordinates>-84.52,33.9402777777778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="101">
+        <Name>Georgia Tech University</Name>
+        <description>Georgia Tech University
+ Beat Spread: 0.478260869565217</description>
+        <Point>
+          <coordinates>-81.2113888888889,32.1680555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="102">
+        <Name>Georgia University</Name>
+        <description>Georgia University
+ Beat Spread: 0.7</description>
+        <Point>
+          <coordinates>-82.3663888888889,31.2102777777778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="103">
+        <Name>Gonzaga University</Name>
+        <description>Gonzaga University
+ Beat Spread: 0.55</description>
+        <Point>
+          <coordinates>-117.402222222222,47.6655555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="105">
+        <Name>Green Bay University</Name>
+        <description>Green Bay University
+ Beat Spread: 0.470588235294118</description>
+        <Point>
+          <coordinates>-87.9208333333333,44.53,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="106">
+        <Name>Hampton University</Name>
+        <description>Hampton University
+ Beat Spread: 0</description>
+        <Point>
+          <coordinates>-76.3333333333333,37.0227777777778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="107">
+        <Name>Hartford University</Name>
+        <description>Hartford University
+ Beat Spread: 0</description>
+        <Point>
+          <coordinates>-72.715,41.7955555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="108">
+        <Name>Harvard University</Name>
+        <description>Harvard University
+ Beat Spread: 0.466666666666667</description>
+        <Point>
+          <coordinates>-71.1163888888889,42.3783333333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="109">
+        <Name>Hawaii University</Name>
+        <description>Hawaii University
+ Beat Spread: 0.375</description>
+        <Point>
+          <coordinates>-155.082777777778,19.7066666666667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="111">
+        <Name>Hofstra University</Name>
+        <description>Hofstra University
+ Beat Spread: 0.666666666666667</description>
+        <Point>
+          <coordinates>-73.6005555555555,40.7144444444444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="113">
+        <Name>Houston University</Name>
+        <description>Houston University
+ Beat Spread: 0.409090909090909</description>
+        <Point>
+          <coordinates>-95.3433333333333,29.7205555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="114">
+        <Name>Howard University</Name>
+        <description>Howard University
+ Beat Spread: 1</description>
+        <Point>
+          <coordinates>-98.9869444444444,31.7155555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="116">
+        <Name>Idaho University</Name>
+        <description>Idaho University
+ Beat Spread: 0.294117647058824</description>
+        <Point>
+          <coordinates>-112.433055555556,42.8666666666667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="119">
+        <Name>Illinois-Chicago University</Name>
+        <description>Illinois-Chicago University
+ Beat Spread: 0.529411764705882</description>
+        <Point>
+          <coordinates>-87.5997222222222,41.7897222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="118">
+        <Name>Illinois University</Name>
+        <description>Illinois University
+ Beat Spread: 0.486842105263158</description>
+        <Point>
+          <coordinates>-87.5997222222222,41.7897222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="121">
+        <Name>Indiana University</Name>
+        <description>Indiana University
+ Beat Spread: 0.333333333333333</description>
+        <Point>
+          <coordinates>-86.9225,40.4280555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="126">
+        <Name>Iowa University</Name>
+        <description>Iowa University
+ Beat Spread: 0.585365853658537</description>
+        <Point>
+          <coordinates>-91.5361111111111,41.6616666666667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="129">
+        <Name>Jacksonville University</Name>
+        <description>Jacksonville University
+ Beat Spread: 0</description>
+        <Point>
+          <coordinates>-85.7663888888889,33.8222222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="130">
+        <Name>James Madison University</Name>
+        <description>James Madison University
+ Beat Spread: 0.523809523809524</description>
+        <Point>
+          <coordinates>-78.8730555555556,38.4380555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="132">
+        <Name>Kansas University</Name>
+        <description>Kansas University
+ Beat Spread: 0.375</description>
+        <Point>
+          <coordinates>-94.7036111111111,37.3911111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="135">
+        <Name>Kentucky University</Name>
+        <description>Kentucky University
+ Beat Spread: 0.451612903225806</description>
+        <Point>
+          <coordinates>-84.4644444444445,39.0311111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="136">
+        <Name>La Salle University</Name>
+        <description>La Salle University
+ Beat Spread: 0.235294117647059</description>
+        <Point>
+          <coordinates>-75.1538888888889,40.0386111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="137">
+        <Name>Lafayette University</Name>
+        <description>Lafayette University
+ Beat Spread: 0.421052631578947</description>
+        <Point>
+          <coordinates>-92.0188888888889,30.2155555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="139">
+        <Name>Lehigh University</Name>
+        <description>Lehigh University
+ Beat Spread: 1</description>
+        <Point>
+          <coordinates>-75.38,40.6063888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="140">
+        <Name>Liberty University</Name>
+        <description>Liberty University
+ Beat Spread: 0</description>
+        <Point>
+          <coordinates>-79.1808333333333,37.3505555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="141">
+        <Name>Lipscomb University</Name>
+        <description>Lipscomb University
+ Beat Spread: 0</description>
+        <Point>
+          <coordinates>-86.7994444444444,36.1055555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="147">
+        <Name>Louisiana-Lafayette University</Name>
+        <description>Louisiana-Lafayette University
+ Beat Spread: 0.411764705882353</description>
+        <Point>
+          <coordinates>-92.0188888888889,30.2155555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="148">
+        <Name>Louisiana-Monroe University</Name>
+        <description>Louisiana-Monroe University
+ Beat Spread: 0.588235294117647</description>
+        <Point>
+          <coordinates>-92.0744444444444,32.5275,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="149">
+        <Name>Louisville University</Name>
+        <description>Louisville University
+ Beat Spread: 0.3</description>
+        <Point>
+          <coordinates>-85.7588888888889,38.215,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="151">
+        <Name>Loyola Marymount University</Name>
+        <description>Loyola Marymount University
+ Beat Spread: 0.588235294117647</description>
+        <Point>
+          <coordinates>-118.418611111111,33.9708333333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="153">
+        <Name>Maine University</Name>
+        <description>Maine University
+ Beat Spread: 0</description>
+        <Point>
+          <coordinates>-68.6691666666667,44.8991666666667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="154">
+        <Name>Manhattan University</Name>
+        <description>Manhattan University
+ Beat Spread: 0.555555555555556</description>
+        <Point>
+          <coordinates>-96.5844444444444,39.1888888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="156">
+        <Name>Marquette University</Name>
+        <description>Marquette University
+ Beat Spread: 0.619047619047619</description>
+        <Point>
+          <coordinates>-87.9297222222222,43.0375,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="157">
+        <Name>Marshall University</Name>
+        <description>Marshall University
+ Beat Spread: 0.578947368421053</description>
+        <Point>
+          <coordinates>-82.4308333333333,38.4230555555555,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="158">
+        <Name>Maryland University</Name>
+        <description>Maryland University
+ Beat Spread: 0.7</description>
+        <Point>
+          <coordinates>-76.6205555555556,39.3288888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="161">
+        <Name>Massachusetts University</Name>
+        <description>Massachusetts University
+ Beat Spread: 0.526315789473684</description>
+        <Point>
+          <coordinates>-71.1163888888889,42.3783333333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="163">
+        <Name>Memphis University</Name>
+        <description>Memphis University
+ Beat Spread: 0.421052631578947</description>
+        <Point>
+          <coordinates>-89.8569444444444,35.0983333333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="164">
+        <Name>Mercer University</Name>
+        <description>Mercer University
+ Beat Spread: 0.666666666666667</description>
+        <Point>
+          <coordinates>-74.6566666666667,40.3427777777778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="166">
+        <Name>Miami-Florida University</Name>
+        <description>Miami-Florida University
+ Beat Spread: 0.473684210526316</description>
+        <Point>
+          <coordinates>-80.3819444444444,25.7541666666667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="168">
+        <Name>Michigan University</Name>
+        <description>Michigan University
+ Beat Spread: 0.467532467532468</description>
+        <Point>
+          <coordinates>-83.7358333333333,42.2758333333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="169">
+        <Name>Middle Tennessee State</Name>
+        <description>Middle Tennessee State
+ Beat Spread: 0.631578947368421</description>
+        <Point>
+          <coordinates>-86.37,35.8522222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="170">
+        <Name>Minnesota University</Name>
+        <description>Minnesota University
+ Beat Spread: 0.454545454545455</description>
+        <Point>
+          <coordinates>-93.1652777777778,44.9669444444444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="172">
+        <Name>Mississippi University</Name>
+        <description>Mississippi University
+ Beat Spread: 0.388888888888889</description>
+        <Point>
+          <coordinates>-89.1363888888889,30.3522222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="175">
+        <Name>Missouri University</Name>
+        <description>Missouri University
+ Beat Spread: 0.55</description>
+        <Point>
+          <coordinates>-93.7386111111111,38.7586111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="179">
+        <Name>Montana University</Name>
+        <description>Montana University
+ Beat Spread: 0.647058823529412</description>
+        <Point>
+          <coordinates>-110.789722222222,45.1127777777778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="187">
+        <Name>Nebraska University</Name>
+        <description>Nebraska University
+ Beat Spread: 0.444444444444444</description>
+        <Point>
+          <coordinates>-96.6494444444445,40.8388888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="188">
+        <Name>Nevada University</Name>
+        <description>Nevada University
+ Beat Spread: 0.411764705882353</description>
+        <Point>
+          <coordinates>-119.814722222222,39.5413888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="189">
+        <Name>New Hampshire University</Name>
+        <description>New Hampshire University
+ Beat Spread: 0.666666666666667</description>
+        <Point>
+          <coordinates>-71.4541666666667,43.04,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="192">
+        <Name>New Mexico University</Name>
+        <description>New Mexico University
+ Beat Spread: 0.428571428571429</description>
+        <Point>
+          <coordinates>-103.347222222222,34.1772222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="193">
+        <Name>Niagara University</Name>
+        <description>Niagara University
+ Beat Spread: 0.421052631578947</description>
+        <Point>
+          <coordinates>-79.0388888888889,43.1386111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="200">
+        <Name>North Carolina-Greensboro University</Name>
+        <description>North Carolina-Greensboro University
+ Beat Spread: 0.5</description>
+        <Point>
+          <coordinates>-79.8111111111111,36.0708333333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="201">
+        <Name>North Carolina-Wilmington University</Name>
+        <description>North Carolina-Wilmington University
+ Beat Spread: 0.285714285714286</description>
+        <Point>
+          <coordinates>-77.8733333333333,34.2255555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="199">
+        <Name>North Carolina University</Name>
+        <description>North Carolina University
+ Beat Spread: 0.277777777777778</description>
+        <Point>
+          <coordinates>-78.94,36.0013888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="204">
+        <Name>North Florida University</Name>
+        <description>North Florida University
+ Beat Spread: 1</description>
+        <Point>
+          <coordinates>-82.3491666666667,29.6483333333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="205">
+        <Name>North Texas University</Name>
+        <description>North Texas University
+ Beat Spread: 0.578947368421053</description>
+        <Point>
+          <coordinates>-96.7841666666667,32.845,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="206">
+        <Name>Northeastern University</Name>
+        <description>Northeastern University
+ Beat Spread: 0.523809523809524</description>
+        <Point>
+          <coordinates>-87.7180555555556,41.9813888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="207">
+        <Name>Northern Arizona University</Name>
+        <description>Northern Arizona University
+ Beat Spread: 0.4</description>
+        <Point>
+          <coordinates>-111.658055555556,35.19,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="208">
+        <Name>Northern Colorado University</Name>
+        <description>Northern Colorado University
+ Beat Spread: 0.266666666666667</description>
+        <Point>
+          <coordinates>-104.692777777778,40.4097222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="209">
+        <Name>Northern Illinois University</Name>
+        <description>Northern Illinois University
+ Beat Spread: 0.555555555555556</description>
+        <Point>
+          <coordinates>-88.7758333333333,41.9375,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="210">
+        <Name>Northern Iowa University</Name>
+        <description>Northern Iowa University
+ Beat Spread: 0.681818181818182</description>
+        <Point>
+          <coordinates>-92.4572222222222,42.5155555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="212">
+        <Name>Northwestern University</Name>
+        <description>Northwestern University
+ Beat Spread: 0.578947368421053</description>
+        <Point>
+          <coordinates>-93.0963888888889,31.7494444444444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="213">
+        <Name>Notre Dame University</Name>
+        <description>Notre Dame University
+ Beat Spread: 0.571428571428571</description>
+        <Point>
+          <coordinates>-86.2391666666667,41.7030555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="214">
+        <Name>Oakland University</Name>
+        <description>Oakland University
+ Beat Spread: 0.5</description>
+        <Point>
+          <coordinates>-83.2175,42.6758333333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="216">
+        <Name>Ohio University</Name>
+        <description>Ohio University
+ Beat Spread: 0.558139534883721</description>
+        <Point>
+          <coordinates>-83.0186111111111,39.9961111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="218">
+        <Name>Oklahoma University</Name>
+        <description>Oklahoma University
+ Beat Spread: 0.3125</description>
+        <Point>
+          <coordinates>-97.4444444444444,35.2038888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="219">
+        <Name>Old Dominion University</Name>
+        <description>Old Dominion University
+ Beat Spread: 0.56</description>
+        <Point>
+          <coordinates>-76.3044444444444,36.89,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="220">
+        <Name>Oral Roberts University</Name>
+        <description>Oral Roberts University
+ Beat Spread: 0.692307692307692</description>
+        <Point>
+          <coordinates>-95.9511111111111,36.0491666666667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="222">
+        <Name>Oregon University</Name>
+        <description>Oregon University
+ Beat Spread: 0.421052631578947</description>
+        <Point>
+          <coordinates>-123.079444444444,44.0472222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="223">
+        <Name>Pacific University</Name>
+        <description>Pacific University
+ Beat Spread: 0.529411764705882</description>
+        <Point>
+          <coordinates>-122.361666666667,47.6486111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="225">
+        <Name>Pennsylvania University</Name>
+        <description>Pennsylvania University
+ Beat Spread: 0.588235294117647</description>
+        <Point>
+          <coordinates>-75.1933333333333,39.9508333333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="226">
+        <Name>Pepperdine University</Name>
+        <description>Pepperdine University
+ Beat Spread: 0.25</description>
+        <Point>
+          <coordinates>-118.708055555556,34.0408333333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="227">
+        <Name>Pittsburgh University</Name>
+        <description>Pittsburgh University
+ Beat Spread: 0.55</description>
+        <Point>
+          <coordinates>-79.9591666666667,40.4427777777778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="229">
+        <Name>Portland University</Name>
+        <description>Portland University
+ Beat Spread: 0.625</description>
+        <Point>
+          <coordinates>-70.2741666666667,43.6627777777778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="231">
+        <Name>Presbyterian University</Name>
+        <description>Presbyterian University
+ Beat Spread: 1</description>
+        <Point>
+          <coordinates>-98.4869444444444,29.4622222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="232">
+        <Name>Princeton University</Name>
+        <description>Princeton University
+ Beat Spread: 0.8125</description>
+        <Point>
+          <coordinates>-74.6566666666667,40.3427777777778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="233">
+        <Name>Providence University</Name>
+        <description>Providence University
+ Beat Spread: 0.444444444444444</description>
+        <Point>
+          <coordinates>-71.3975,41.8261111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="234">
+        <Name>Purdue University</Name>
+        <description>Purdue University
+ Beat Spread: 0.5</description>
+        <Point>
+          <coordinates>-86.9225,40.4280555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="236">
+        <Name>Radford University</Name>
+        <description>Radford University
+ Beat Spread: 0.5</description>
+        <Point>
+          <coordinates>-80.5494444444444,37.1388888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="237">
+        <Name>Rhode Island University</Name>
+        <description>Rhode Island University
+ Beat Spread: 0.476190476190476</description>
+        <Point>
+          <coordinates>-71.3975,41.8261111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="238">
+        <Name>Rice University</Name>
+        <description>Rice University
+ Beat Spread: 0.333333333333333</description>
+        <Point>
+          <coordinates>-95.075,29.5613888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="239">
+        <Name>Richmond University</Name>
+        <description>Richmond University
+ Beat Spread: 0.6</description>
+        <Point>
+          <coordinates>-77.5380555555556,37.5755555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="240">
+        <Name>Rider University</Name>
+        <description>Rider University
+ Beat Spread: 0.526315789473684</description>
+        <Point>
+          <coordinates>-74.7391666666667,40.2788888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="242">
+        <Name>Rutgers University</Name>
+        <description>Rutgers University
+ Beat Spread: 0.421052631578947</description>
+        <Point>
+          <coordinates>-74.4441666666667,40.4994444444444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="245">
+        <Name>Saint Bonaventure</Name>
+        <description>Saint Bonaventure
+ Beat Spread: 0.388888888888889</description>
+        <Point>
+          <coordinates>-92.9502777777778,39.7133333333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="250">
+        <Name>Saint Louis University</Name>
+        <description>Saint Louis University
+ Beat Spread: 0.666666666666667</description>
+        <Point>
+          <coordinates>-90.2336111111111,38.6352777777778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="255">
+        <Name>Samford University</Name>
+        <description>Samford University
+ Beat Spread: 0.0555555555555556</description>
+        <Point>
+          <coordinates>-86.7930555555556,33.465,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="257">
+        <Name>San Diego University</Name>
+        <description>San Diego University
+ Beat Spread: 0.1875</description>
+        <Point>
+          <coordinates>-117.072222222222,32.7752777777778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="258">
+        <Name>San Francisco University</Name>
+        <description>San Francisco University
+ Beat Spread: 0.666666666666667</description>
+        <Point>
+          <coordinates>-122.477777777778,37.7227777777778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="260">
+        <Name>Santa Clara University</Name>
+        <description>Santa Clara University
+ Beat Spread: 0.5625</description>
+        <Point>
+          <coordinates>-122.17,37.4269444444444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="263">
+        <Name>Seton Hall University</Name>
+        <description>Seton Hall University
+ Beat Spread: 0.368421052631579</description>
+        <Point>
+          <coordinates>-74.1658333333333,40.7363888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="264">
+        <Name>Siena University</Name>
+        <description>Siena University
+ Beat Spread: 0.473684210526316</description>
+        <Point>
+          <coordinates>-84.0144444444445,41.9061111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="265">
+        <Name>South Alabama University</Name>
+        <description>South Alabama University
+ Beat Spread: 0.333333333333333</description>
+        <Point>
+          <coordinates>-88.1766666666667,30.6958333333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="267">
+        <Name>South Carolina University</Name>
+        <description>South Carolina University
+ Beat Spread: 0.333333333333333</description>
+        <Point>
+          <coordinates>-79.0077777777778,33.7952777777778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="271">
+        <Name>South Florida University</Name>
+        <description>South Florida University
+ Beat Spread: 0.526315789473684</description>
+        <Point>
+          <coordinates>-82.4136111111111,28.0625,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="274">
+        <Name>Southern Illinois University</Name>
+        <description>Southern Illinois University
+ Beat Spread: 0.35</description>
+        <Point>
+          <coordinates>-89.2186111111111,37.7130555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="276">
+        <Name>Southern Miss University</Name>
+        <description>Southern Miss University
+ Beat Spread: 0.7</description>
+        <Point>
+          <coordinates>-89.1363888888889,30.3522222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="277">
+        <Name>Southern University</Name>
+        <description>Southern University
+ Beat Spread: 0.475</description>
+        <Point>
+          <coordinates>-118.286388888889,34.0216666666667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="279">
+        <Name>Stanford University</Name>
+        <description>Stanford University
+ Beat Spread: 0.4</description>
+        <Point>
+          <coordinates>-122.17,37.4269444444444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="283">
+        <Name>Syracuse University</Name>
+        <description>Syracuse University
+ Beat Spread: 0.619047619047619</description>
+        <Point>
+          <coordinates>-76.1344444444445,43.0377777777778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="284">
+        <Name>Temple University</Name>
+        <description>Temple University
+ Beat Spread: 0.636363636363636</description>
+        <Point>
+          <coordinates>-75.1413888888889,40.0713888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="287">
+        <Name>Tennessee University</Name>
+        <description>Tennessee University
+ Beat Spread: 0.416666666666667</description>
+        <Point>
+          <coordinates>-86.8030555555556,36.1480555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="290">
+        <Name>Texas Christian University</Name>
+        <description>Texas Christian University
+ Beat Spread: 0.388888888888889</description>
+        <Point>
+          <coordinates>-97.3616666666667,32.7091666666667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="291">
+        <Name>Texas Southern University</Name>
+        <description>Texas Southern University
+ Beat Spread: 1</description>
+        <Point>
+          <coordinates>-96.7841666666667,32.845,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="293">
+        <Name>Texas Tech University</Name>
+        <description>Texas Tech University
+ Beat Spread: 0.473684210526316</description>
+        <Point>
+          <coordinates>-98.5694444444444,29.5119444444444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="294">
+        <Name>Texas University</Name>
+        <description>Texas University
+ Beat Spread: 0.358974358974359</description>
+        <Point>
+          <coordinates>-96.7841666666667,32.845,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="297">
+        <Name>Toledo University</Name>
+        <description>Toledo University
+ Beat Spread: 0.368421052631579</description>
+        <Point>
+          <coordinates>-83.6141666666667,41.6619444444444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="298">
+        <Name>Towson University</Name>
+        <description>Towson University
+ Beat Spread: 0.454545454545455</description>
+        <Point>
+          <coordinates>-76.6058333333333,39.3922222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="299">
+        <Name>Troy University</Name>
+        <description>Troy University
+ Beat Spread: 0.473684210526316</description>
+        <Point>
+          <coordinates>-85.9569444444444,31.8005555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="300">
+        <Name>Tulane University</Name>
+        <description>Tulane University
+ Beat Spread: 0.470588235294118</description>
+        <Point>
+          <coordinates>-90.1194444444444,29.9397222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="301">
+        <Name>Tulsa University</Name>
+        <description>Tulsa University
+ Beat Spread: 0.181818181818182</description>
+        <Point>
+          <coordinates>-95.9461111111111,36.1522222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="302">
+        <Name>UCLA University</Name>
+        <description>UCLA University
+ Beat Spread: 0.526315789473684</description>
+        <Point>
+          <coordinates>-118.444444444444,34.0705555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="304">
+        <Name>University of California Berkeley</Name>
+        <description>University of California Berkeley
+ Beat Spread: 0.55</description>
+        <Point>
+          <coordinates>-122.259722222222,37.8719444444444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="305">
+        <Name>University of California Davis</Name>
+        <description>University of California Davis
+ Beat Spread: 0.631578947368421</description>
+        <Point>
+          <coordinates>-121.748888888889,38.54,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="306">
+        <Name>University of California Irvine</Name>
+        <description>University of California Irvine
+ Beat Spread: 0.444444444444444</description>
+        <Point>
+          <coordinates>-117.842777777778,33.6461111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="307">
+        <Name>University of California Riverside</Name>
+        <description>University of California Riverside
+ Beat Spread: 0.352941176470588</description>
+        <Point>
+          <coordinates>-117.3275,33.9738888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="308">
+        <Name>University of California Santa Barbara</Name>
+        <description>University of California Santa Barbara
+ Beat Spread: 0.55</description>
+        <Point>
+          <coordinates>-119.848055555556,34.4125,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="313">
+        <Name>University of Texas El Paso</Name>
+        <description>University of Texas El Paso
+ Beat Spread: 0.523809523809524</description>
+        <Point>
+          <coordinates>-106.505555555556,31.7702777777778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="315">
+        <Name>Utah University</Name>
+        <description>Utah University
+ Beat Spread: 0.407407407407407</description>
+        <Point>
+          <coordinates>-111.8125,41.7408333333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="318">
+        <Name>Valparaiso University</Name>
+        <description>Valparaiso University
+ Beat Spread: 0.611111111111111</description>
+        <Point>
+          <coordinates>-87.0436111111111,41.4625,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="319">
+        <Name>Vanderbilt University</Name>
+        <description>Vanderbilt University
+ Beat Spread: 0.476190476190476</description>
+        <Point>
+          <coordinates>-86.8030555555556,36.1480555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="320">
+        <Name>Vermont University</Name>
+        <description>Vermont University
+ Beat Spread: 0.8</description>
+        <Point>
+          <coordinates>-73.2011111111111,44.4783333333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="321">
+        <Name>Villanova University</Name>
+        <description>Villanova University
+ Beat Spread: 0.380952380952381</description>
+        <Point>
+          <coordinates>-75.3444444444444,40.0380555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="324">
+        <Name>Virginia University</Name>
+        <description>Virginia University
+ Beat Spread: 0.418604651162791</description>
+        <Point>
+          <coordinates>-78.5030555555556,38.0355555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="326">
+        <Name>Wake Forest University</Name>
+        <description>Wake Forest University
+ Beat Spread: 0.473684210526316</description>
+        <Point>
+          <coordinates>-80.2772222222222,36.1333333333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="328">
+        <Name>Washington University</Name>
+        <description>Washington University
+ Beat Spread: 0.584905660377358</description>
+        <Point>
+          <coordinates>-77.0725,38.9072222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="330">
+        <Name>West Virginia University</Name>
+        <description>West Virginia University
+ Beat Spread: 0.458333333333333</description>
+        <Point>
+          <coordinates>-82.4308333333333,38.4230555555555,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="333">
+        <Name>Western Kentucky University</Name>
+        <description>Western Kentucky University
+ Beat Spread: 0.409090909090909</description>
+        <Point>
+          <coordinates>-86.4516666666667,36.9875,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="334">
+        <Name>Western Michigan University</Name>
+        <description>Western Michigan University
+ Beat Spread: 0.45</description>
+        <Point>
+          <coordinates>-85.6119444444444,42.2836111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="338">
+        <Name>Wisconsin-Milwaukee University</Name>
+        <description>Wisconsin-Milwaukee University
+ Beat Spread: 0.526315789473684</description>
+        <Point>
+          <coordinates>-87.8788888888889,43.0755555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="337">
+        <Name>Wisconsin University</Name>
+        <description>Wisconsin University
+ Beat Spread: 0.55</description>
+        <Point>
+          <coordinates>-89.4108333333333,43.0738888888889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="341">
+        <Name>Wyoming University</Name>
+        <description>Wyoming University
+ Beat Spread: 0.411764705882353</description>
+        <Point>
+          <coordinates>-105.576111111111,41.3116666666667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="342">
+        <Name>Xavier University</Name>
+        <description>Xavier University
+ Beat Spread: 0.666666666666667</description>
+        <Point>
+          <coordinates>-87.7133333333333,41.7072222222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="343">
+        <Name>Yale University</Name>
+        <description>Yale University
+ Beat Spread: 0.5</description>
+        <Point>
+          <coordinates>-72.9263888888889,41.3111111111111,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
